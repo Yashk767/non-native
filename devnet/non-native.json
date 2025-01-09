@@ -1,0 +1,7 @@
+{
+    "31337": {
+        "RequestHandler": "0x1fA02b2d6A771842690194Cf62D91bdd92BfE28d",
+        "ResultProxy": "0xdbC43Ba45381e02825b14322cDdd15eC4B3164E6",
+        "rpc": "http://127.0.0.1:8545"
+    }
+}
