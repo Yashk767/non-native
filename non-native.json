@@ -1,23 +1,17 @@
 {
-    "17000": {
-      "RequestHandler": "0x5576584437afF3c6437b39339b97B6D841d7611F",
-      "ResultProxy": "0xD09bCf9C77cE68226E18ca77552E0883528489eF",
-      "rpc": "https://ethereum-holesky.publicnode.com"
-    },
-    "84532": {
-      "RequestHandler": "0x18AAcc688cdC749Cb024f65FaA27b809a362f759",
-      "ResultProxy": "0xC1C73706f12c3E4A10DFA47bf994E93724C2A2b6",
-      "rpc": "https://base-sepolia-rpc.publicnode.com"
-    },
-    "11155420": {
-      "RequestHandler": "0xFa1C8b4FeD0B7681b3f911EEB02c4F7aA8e4aF53",
-      "ResultProxy": "0x45aDE0c2B531F7153b016BD4f58779E8E575D340",
-      "rpc": "https://optimism-sepolia.drpc.org"
-    },
-    "11155111": {
-      "RequestHandler": "0x62A230727aDB4f027d54626B256ead5dB890946C",
-      "ResultProxy": "0x3aAdF49777d925680943fB3f32D8686e204511eb",
-      "rpc": "https://eth-sepolia.public.blastapi.io"
-    }
+  "17000": {
+    "RequestHandler": "0xd9A30f127F879aAaC01b35F2e34944fDC4f2470A",
+    "ResultProxy": "0xEa1fE5a769c4d494266Fe5e7533503C42E2C86b3",
+    "rpc": "https://ethereum-holesky.publicnode.com"
+  },
+  "84532": {
+    "RequestHandler": "0xe2AE9093b3cd3C4956323Ce75B0736E24E336824",
+    "ResultProxy": "0xB1A475dcdb8498f16980e136D89A05E2F8DD978B",
+    "rpc": "https://base-sepolia-rpc.publicnode.com"
+  },
+  "11155111": {
+    "RequestHandler": "0x1DD703F14E1535D6AF4Fe585E971C136473D0c73",
+    "ResultProxy": "0x1b2Ed64B62d43b3b70c509f07641882323eD577E",
+    "rpc": "https://eth-sepolia.public.blastapi.io"
   }
-  
+}
